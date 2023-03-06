@@ -1,4 +1,6 @@
-# 3107-pipeline
+# IS3107 Airflow Pipeline for Financial Data
+This Airflow pipeline processes market financial data (e.g. company performance, financial ratios, social media sentiment data) from various sources, and forecasts company prices and performance using ML models. These data are then stored in BigQuery.
+
 
 # NEEDED: Install mtools
 Install mtools [http://blog.rueckstiess.com/mtools/mlaunch.html]. mtools is a compiled list of scripts useful for managing local mongoDB.
